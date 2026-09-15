@@ -1,0 +1,13 @@
+<resources>
+    <color name="infy_black">#000000</color>
+    <color name="infy_near_black">#0A0A0F</color>
+    <color name="infy_surface">#121218</color>
+    <color name="infy_surface_alt">#1A1A22</color>
+    <color name="infy_neon_blue">#3EC6FF</color>
+    <color name="infy_neon_purple">#9B6BFF</color>
+    <color name="infy_neon_cyan">#5CFFEB</color>
+    <color name="infy_text_primary">#F2F2F7</color>
+    <color name="infy_text_secondary">#9A9AA5</color>
+    <color name="infy_error">#FF5C7A</color>
+    <color name="infy_star">#FFFFFF</color>
+</resources>
